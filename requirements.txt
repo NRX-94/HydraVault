@@ -1,0 +1,7 @@
+pyzipper
+PyPDF2
+openpyxl
+python-pptx
+python-docx
+py7zr
+rarfile
